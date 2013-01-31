@@ -1,4 +1,4 @@
 gdscripts
 =========
 
-Scripts for manipulating with Google Drive documents
+My scripts for manipulating with data
